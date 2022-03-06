@@ -1,0 +1,35 @@
+/* Slideshow */
+
+.slideshow {
+    overflow: hidden;
+    width: 100%;
+  }
+  
+  .slideshowSlider {
+    white-space: nowrap;
+  }
+  
+  .slide {
+    display: inline-block;
+  
+    height: 400px;
+    width: 100%;
+  }
+  
+  /* Buttons */
+  
+  .slideshowDots {
+    text-align: center;
+  }
+  
+  .slideshowDot {
+    display: inline-block;
+    height: 20px;
+    width: 100%;
+    cursor: pointer;  
+    background-color: #c4c4c4;
+  }
+  
+  .slideshowDot.active {
+    background-color: #6a0dad;
+  }
