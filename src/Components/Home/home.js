@@ -1,11 +1,11 @@
 import React from "react";
 import "../../App.css";
-import Navbar from "./Navbar/navbar";
+import Navbar from "../Navbar/navbar";
 import Header from "../Header/header";
 import Shop from "./shop";
 import TheLine from "./theLine";
 import HappySkin from "./happyskin";
-import Footer from "./Footer/footer";
+import Footer from "../Footer/footer";
 import AnimatedCursor from "react-animated-cursor"
 
 const colors = ["#F5D7F5", "#FAF2DF", "#DAEAF9"];
