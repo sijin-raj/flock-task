@@ -40,7 +40,7 @@ function HappySkin() {
         fall #drunkinlove
         </h1>
         <div className="w-3/5 m-24 px-2 items-center justify-center"> 
-              <img src="https://cdn.shopify.com/s/files/1/0209/8446/files/LIPS_360x.png?v=1601059598" alt="card" />
+              <img src="https://cdn.shopify.com/s/files/1/0209/8446/files/LIPS_360x.png?v=1601059598" alt="cream" />
               </div>
       </div>
 

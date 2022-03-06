@@ -65,7 +65,7 @@ function Home() {
             <img
               className="px-6 py-20 w-3/6 ml-96"
               src="https://cdn.shopify.com/s/files/1/0209/8446/files/A-Gloei_HPH-4_500px_540x.jpg?v=1641276192"
-              alt="image"
+              alt="image2"
             />
           </div>
         </div>

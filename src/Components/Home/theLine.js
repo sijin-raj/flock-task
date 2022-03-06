@@ -10,17 +10,17 @@ function TheLine() {
 
       <div className="flex flex-row space-x-3">
       <div className="w-1/4 m-4 px-2 items-center  justify-center"> 
-              <img src="https://cdn.shopify.com/s/files/1/0209/8446/t/147/assets/4cead1fdebdd--Protini-50ml-10072020-Hero_720x.png?v=1602092864" alt="card" />
+              <img src="https://cdn.shopify.com/s/files/1/0209/8446/t/147/assets/4cead1fdebdd--Protini-50ml-10072020-Hero_720x.png?v=1602092864" alt="c-1" />
               </div>
               <div className="w-1/4 m-4 px-2 items-center justify-center"> 
-              <img src="https://cdn.shopify.com/s/files/1/0209/8446/t/147/assets/4cead1fdebdd--Protini-50ml-10072020-Hero_720x.png?v=1602092864" alt="card" />
+              <img src="https://cdn.shopify.com/s/files/1/0209/8446/t/147/assets/4cead1fdebdd--Protini-50ml-10072020-Hero_720x.png?v=1602092864" alt="c-2" />
               </div>
               <div className="w-1/4 m-4 px-2 items-center justify-center"> 
-              <img src="https://cdn.shopify.com/s/files/1/0209/8446/t/147/assets/4cead1fdebdd--Protini-50ml-10072020-Hero_720x.png?v=1602092864" alt="card" />
+              <img src="https://cdn.shopify.com/s/files/1/0209/8446/t/147/assets/4cead1fdebdd--Protini-50ml-10072020-Hero_720x.png?v=1602092864" alt="c-3" />
               </div>
 
               <div className="w-1/4 m-4 px-2 items-center justify-center"> 
-              <img src="https://cdn.shopify.com/s/files/1/0209/8446/t/147/assets/4cead1fdebdd--Protini-50ml-10072020-Hero_720x.png?v=1602092864" alt="card" />
+              <img src="https://cdn.shopify.com/s/files/1/0209/8446/t/147/assets/4cead1fdebdd--Protini-50ml-10072020-Hero_720x.png?v=1602092864" alt="c-4" />
               </div>
       </div>
     </section>

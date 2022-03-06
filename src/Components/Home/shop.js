@@ -35,7 +35,7 @@ function Shop() {
           </div>
          <div className="w-full bg-blue-200">
          <div className="w-3/4 m-24 px-2 items-center animate-pulse justify-center"> 
-              <img src="https://cdn.shopify.com/s/files/1/0209/8446/files/A-Gloei_Smoothie_Creative_04_1080px_540x.jpg?v=1645837000" alt="card" />
+              <img src="https://cdn.shopify.com/s/files/1/0209/8446/files/A-Gloei_Smoothie_Creative_04_1080px_540x.jpg?v=1645837000" alt="card2" />
               </div>
          </div>
       </div>
